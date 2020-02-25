@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap');
+
+body,
+html,
+#root {
+  margin: 0;
+  padding: 0;
+}
+*{
+  box-sizing: border-box;
+}
