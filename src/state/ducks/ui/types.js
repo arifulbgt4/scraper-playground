@@ -1,0 +1,4 @@
+const SET_SCRAPER = 'SET_SCRAPER';
+const CLOSE_SCRAPER = 'CLOSE_SCRAPER';
+
+export default { SET_SCRAPER, CLOSE_SCRAPER };
